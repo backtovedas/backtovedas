@@ -28,8 +28,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.gif?palette=github-dark&animation=gif&hide_progressbar=true
-          
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark&animation=gif&hide_progressbar=true 
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake-dark.gif to the output branch
