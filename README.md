@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is backtovedas and I'm a Systems Enthusiast and Developer, from India.</h2>
+<h2 align="left">Hi ! My name is backtovedas and I'm a Systems Engineerand Developer from India.</h2>
 
 ###
 
@@ -39,3 +39,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/backtovedas/backtovedas/output/github-contribution-grid-snake-dark.gif" alt="Snake animation" />
+
