@@ -1,5 +1,4 @@
 
-## Welcome to My Profile
 
 <p align="center">
   <a href="https://backtovedas.github.io/" target="_blank">
@@ -8,7 +7,6 @@
   </a>
 </p>
 
----
 
 ###  My Arsenal
 <div align="center">
@@ -18,7 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo" />
 </div>
 
----
 
 ## GitHub Stats
 
@@ -27,7 +24,6 @@
   <img height="160" src="https://streak-stats.demolab.com?user=backtovedas&theme=transparent&hide_border=true" />
 </p>
 
----
 
 ### A Snakey Friend
 *He’s just wiggling through my contributions, looking for snacks!*
