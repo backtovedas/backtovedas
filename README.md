@@ -5,9 +5,9 @@
   <a href="https://backtovedas.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-C800FF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
-  </p>
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Yrashka200&label=Profile%20views&color=C800FF&style=for-the-badge" />
+  </p>
   </p>
 </p>
 
