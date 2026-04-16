@@ -24,9 +24,6 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backtovedas&layout=compact&theme=transparent&hide_border=true&langs_count=5" />
-</p>
-
-<p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=backtovedas&theme=transparent&hide_border=true" />
 </p>
 
