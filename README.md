@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://backtovedas.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-7B68EE?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/My_Portfolio-7B68EE?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=Yrashka200&label=Profile%20views&color=7B68EE&style=for-the-badge" />
   </a>
 </p>
 
@@ -22,7 +23,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=backtovedas&show_icons=true&theme=transparent&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backtovedas&layout=compact&theme=transparent&hide_border=true&langs_count=5" />
 </p>
 
