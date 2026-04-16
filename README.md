@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://backtovedas.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-7B68EE?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/My_Portfolio-C800FF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Yrashka200&label=Profile%20views&color=C800FF&style=for-the-badge" />
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Yrashka200&label=Profile%20views&color=C800FF&style=for-the-badge" />
 
 ###  My Arsenal
 <div align="center">
