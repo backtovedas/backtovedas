@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://backtovedas.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-7B68EE?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    <img src="https://komarev.com/ghpvc/?username=Yrashka200&label=Profile%20views&color=7B68EE&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/My_Portfolio-7B68EE?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Yrashka200&label=Profile%20views&color=C800FF&style=for-the-badge" />
 </p>
 
 
@@ -26,8 +26,6 @@
 
 
 ### A Snakey Friend
-*He’s just wiggling through my contributions, looking for snacks!*
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/backtovedas/backtovedas/output/github-contribution-grid-snake-dark.gif" alt="Snake animation" />
 </div>
